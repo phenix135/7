@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--解析：-->
+<student>
+   <name>女儿国王</name>
+   <age>19</age>
+   <sex>女</sex>
+    <info>
+    <addr>女儿国</addr>
+    </info>
+
+        <sql>
+        select * from user where age &lt;18;
+            select * from user where age &lt;18;
+ <![CDATA[
+  select * from user where age &lt;18;
+ ]]>
+        </sql>
+
+</student>
